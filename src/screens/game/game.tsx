@@ -5,7 +5,7 @@ import styles from "./game.styles";
 export default function Game() {
   return (
     <View style={styles.container}>
-      <Text>home</Text>
+      <Text>Game</Text>
     </View>
   );
 }
